@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sai Aung Hlyan Htet",
+      "email": "sai@gmail.com",
+      "password": "password"
+    },
+    {
+      "name": "sai aung hlyan htet",
+      "email": "hlyan@gmail.com",
+      "password": "asdfsds",
+      "id": 2
+    },
+    {
+      "email": "leo@gmail.com",
+      "password": "$2a$10$oR8YRRshg208wvmHf3wvw.WiE4bfHOPbHstJTBAJu4dd1CueiqKWK",
+      "name": "Leo Messi",
+      "id": 3
+    },
+    {
+      "email": "bb@gmail.com",
+      "password": "$2a$10$MYE0Lw3Ixps9OVP3sot0feAyNknNOLDG3p7CGVKvsm358iSzp9MyK",
+      "name": "bb ",
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "body": "post 1 body",
+      "userId": 1
+    }
+  ]
+}
